@@ -1,7 +1,7 @@
 criaCartao(
     'História',
     'O que foi o regime militar no Brasil?',
-    'O regime militar durou de 1964 a 1985, após um golpe de estado. Foi caracterizado por censura, repressão política e violoções dos direitos humanos, apesar de ser um período de crescimento economico'
+    'O regime militar durou de 64-85, com censura, repressão política e violações dos direitos humanos'
 )
 
 criaCartao(
@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Física',
     ' Quais são as leis de Newton ?',
-    'primeira lei(inércia): um corpo em movimento ou em movimento uniforme continuará assim; segunda lei(F= m*a): a força resultante em um objeto é igual à sua massa multiplicada pela aceleração; terceira lei(ação e reação): para cada ação, há uma reação igual e oposta.'
+    'primeira lei: inércia; segunda lei: lei da força F= m*a; terceira lei: ação e reação'
 )
 
 criaCartao(
