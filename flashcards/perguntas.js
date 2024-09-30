@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'O que diz a teoria de evolução de Darwin?',
+    'A teoria da evolução de Darwin, principalmente através da seleção natural, sugere que as espécies mudam ao longo do tempo. Indivíduos com características vantajosas têm mais chances de sobreviver e reproduzir, transmitindo essas características para a próxima geração. Essa adaptação ao ambiente leva à diversificação das espécies'
 )
